@@ -5,4 +5,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Calvin for the Lighthouse Labs Web Development Bootcamp. 
+This repository contains all of the notes taken by [Calvin](https://github.com/Kikstyophobia) for the Lighthouse Labs Web Development Bootcamp. 
